@@ -1,6 +1,16 @@
-# RememberThisName.org (Dust.js/Node.js)
+# RememberThisName.org
+
+## Objective
+
+This is to be a site and service dedicated to helping people remember victims of tragic events.
+
+### Why?
+
+I live in Sandy Hook and I want to collect and learn more about the good people involved with other tragic events. If others benefit from this, great. If not, at least I will learn about people that were taken too soon and missed by their families and friends.
 
 ## Developing
+
+RememberThisName.org is build with Node.js and Dust.js.
 
 Install [node.js](http://nodejs.org/) to run Node.
 Install [foreman](http://ddollar.github.com/foreman/) to run this Procfile-based project.
