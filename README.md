@@ -15,8 +15,8 @@ RememberThisName.org is build with Node.js and Dust.js.
 Install [node.js](http://nodejs.org/) to run Node.
 Install [foreman](http://ddollar.github.com/foreman/) to run this Procfile-based project.
 
-    $ git clone https://github.com/jaxzin/rememberthisname.git
-    $ cd rememberthisname
+    $ git clone https://github.com/jaxzin/remember-this-name.git
+    $ cd remember-this-name
     $ npm install
     $ foreman start
 
@@ -37,8 +37,8 @@ Assumes your local environment is already:
 > * Setup with [node](http://nodejs.org/) and [npm](http://npmjs.org/)
 
 
-    $ git clone http://github.com/jaxzin/rememberthisname.git
-    $ cd rememberthisname
+    $ git clone http://github.com/jaxzin/remember-this-name.git
+    $ cd remember-this-name
     $ heroku create --stack cedar
     $ git push heroku master
     ... wait for it to push and launch ...
